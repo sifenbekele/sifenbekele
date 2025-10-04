@@ -1,6 +1,6 @@
-- 🔭 I’m currently working on an E-commerce Web App
-- 🌱 I’m currently majoring in Computer Science 
-- 👯 I’m looking to collaborate on a web App
+- 👨🏽‍💻 I’m currently working on an E-commerce Web App
+- 🎓 I’m currently majoring in Computer Science 
+- 👥 I’m looking to collaborate on a web App
 - 🤔 I’m looking for help with Frameworks and Authentication
 - 📫 To Reach out: use my socials below
 -  🌐 Socials:
