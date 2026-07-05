@@ -1,8 +1,8 @@
-- 👨🏽‍💻 I’m currently working on an E-commerce Web App
+- 👨🏽‍💻 I’m currently working on a Full-Stack app 
 - 🎓 I’m currently majoring in Computer Science 
-- 👥 I’m looking to collaborate on a web App
-- 🤔 I’m looking for help with Frameworks and Authentication
-- 📫 To Reach out: use my socials below
+- 👥 I’m looking to collaborate on the app am working on
+- 🤔 I’m looking for help with Frameworks & Authentication 
+- 📫 To Reach out: use my socials below 
 -  🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/pointsto_sifen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sifen-b-abdi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Own_Currency141)  [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sifenbekeleabdi@gmail.com) 
 
