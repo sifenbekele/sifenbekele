@@ -1,4 +1,4 @@
-# 💫 About Me:
+
 - 👨🏽‍💻 I’m currently working on a Full-Stack app <br>- 🎓 I’m currently majoring in Computer Science <br>- 👥 I’m looking to collaborate on the app am working on<br>- 🤔 I’m looking for help with Frameworks & Authentication <br>- 📫 To Reach out: use my socials below 
 
 
