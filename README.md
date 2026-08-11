@@ -11,5 +11,6 @@
 
 ![](https://streak-stats.demolab.com/?user=sifenbekele&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api?username=sifenbekele&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=sifenbekele&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 
